@@ -36,7 +36,7 @@ void CALLBACK MutaSus(void)
 
 void CALLBACK MutaStanga(void)
 {
-	x=x-10;
+	x=x-15;
 }
 
 void CALLBACK MutaDreapta(void)
